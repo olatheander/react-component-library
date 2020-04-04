@@ -1,0 +1,1 @@
+Loosely based on [Creating a React Component library using Rollup, Typescript, Sass and Storybook](https://blog.harveydelaney.com/creating-your-own-react-component-library/) minus the Typescript & Sass parts.
