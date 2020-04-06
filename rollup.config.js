@@ -7,12 +7,12 @@ export default {
   input: "src/index.js",
   output: [
     {
-        dir: 'dist/cjs',
+        dir: 'public/dist/cjs',
         format: "cjs",
         sourcemap: true
     },
     {
-        dir: 'dist/es',
+        dir: 'public/dist/es',
         format: "es",
         sourcemap: true
     }
